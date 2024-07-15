@@ -21,10 +21,10 @@ This project demonstrates how to build and use Markov chain models at both the c
 To get started with this project, ensure you have Python 3 installed.  
 Clone the repository and navigate to the project directory:  
 1. ```
-   git clone https://github.com/yourusername/markov-chain-text-generation.git
+   git clone https://github.com/SheldonChetty/PRODIGY_GA_03
    ```  
 2. ```
-   cd markov-chain-text-generation
+   cd PRODIGY_GA_03
    ```
 ## Usage  
 1. Prepare Input Text  
